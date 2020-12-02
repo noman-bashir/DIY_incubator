@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><Devices>
+  <Device>
+    <name>Ectothermic Testbed</name>
+    <shortName>dimmer</shortName>
+    <devType>Dimmer</devType>
+    <address>1A.E0.90</address>
+    <level>0</level>
+  </Device>
+</Devices>

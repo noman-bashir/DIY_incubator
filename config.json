@@ -1,0 +1,11 @@
+{
+    "base_directory_path" : "/sys/bus/w1/devices/28*",
+    "temperature_trace_path" : "traces/",
+    "setpoint_tolerance" : 2,
+    "trace_time_granularity_sec" : 5,
+    "temperature_scale" : "C",
+    "usb_device" : "/dev/ttyUSB0",
+    "device_configs" : "dimmer_configs.xml",
+    "relay_gpio_pi" : 17,
+    "dimmer_level" : 50
+}
